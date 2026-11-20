@@ -1,0 +1,14 @@
+{
+  "id": "elite",
+  "name": "Elite",
+  "price_cents": 10000,
+  "monthly_query_limit": 5000,
+  "features": [
+    "5000 consultas por mes",
+    "Recursos avancados",
+    "Prioridade maxima",
+    "Suporte premium"
+  ],
+  "price": 100,
+  "puxa_tudo_daily_limit": 30
+}
